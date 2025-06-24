@@ -1,4 +1,4 @@
-# SCT_DS_1
+
 Accidents Dataset: Analysis and Insights
 Overview
 This repository contains the Accidents Dataset, which provides data related to accidents across various regions. The dataset includes information on weather conditions, time of day, and other variables that contribute to accidents. It is intended for analysis, visualization, and machine learning purposes.
